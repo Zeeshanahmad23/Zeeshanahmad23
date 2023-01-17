@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeeshan Ahmad Khan aka @Zeeshanahmad23
 - 👀 I’m interested in Data Science, Machine Learnig and Cloud Computing
-- 🌱 I’m currently learning AWS Cloud Computing and Data Science
+- 🌱 I’m currently learning AWS Cloud Computing
 - 💞️ I’m looking to collaborate on AWS Data Analytics.
 - 📫 How to reach me   Email: zee.khanx79@gmail.com
 
